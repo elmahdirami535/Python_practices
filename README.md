@@ -1,2 +1,2 @@
 # Python_practices
-This is a repositorie for practicing python
+This is a repositorie for practicing python3
